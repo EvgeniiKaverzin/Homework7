@@ -21,7 +21,6 @@ public class Main {
         for (; i > 0; i--) {
             System.out.print(i + " ");
         }
-
         //Задание 3
         System.out.println("Задание 3");
         int y = 12_000_000;
